@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Alima</h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F5B3F7&vCenter=true&random=false&width=435&lines=+++ + ++  +xnesn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F5B3F7&vCenter=true&random=false&width=435&lines=+++ + ++  +not available" alt="Typing SVG" /></a>
 </h1>
 
 ## 🌐 Socials:
